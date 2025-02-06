@@ -1,2 +1,2 @@
 
-# Practicing the Git commands 
+# Switching from main to branch2
